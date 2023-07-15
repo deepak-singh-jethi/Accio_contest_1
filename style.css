@@ -1,0 +1,82 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.heading {
+    font-size: 50px;
+    font-weight: 200;
+    margin-top: 40px;
+    margin-bottom: 30px;
+
+
+}
+.conatiner {
+    margin-left: 15px;
+    margin-top: 30px;
+}
+
+/* nav bar */
+#navBar{
+    width: 100%;
+    background-color: black;
+    height: 70px;
+    color: white;
+}
+#nav_text{
+   padding-top:20px ;
+   padding-left: 10px;
+   font-weight: 100;
+   line-height: 29px;
+   
+}
+
+/*  Main section */
+
+#LearnMoreButton{
+    background-color: black;
+    color: white;
+    width: 226px;
+    height: 58px;
+    margin: auto;
+    font-size: 24px;
+
+}
+
+/* list section */
+
+.list{
+    margin: 20px auto 20px 20px;
+}
+
+/* table section */
+table {
+    border: 1px solid black;
+    border-collapse: collapse;
+    width: 90%;
+    padding-left: 20px;
+    margin-bottom: 20px;
+    
+}
+
+
+
+table td {
+    border-left: 1px solid black;
+    border-right: 1px solid black;
+    padding: 20px 0px 20px 30px;
+}
+
+.table_head{
+    border-bottom: 1px solid black;
+}
+.firstElement{
+    text-align: center;
+}
+
+#footer{
+    background-color: black;
+    color: white;
+}
+
