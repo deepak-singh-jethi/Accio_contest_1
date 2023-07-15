@@ -73,6 +73,7 @@ table td {
 }
 .firstElement{
     text-align: center;
+    padding-left: 0px;
 }
 
 #footer{
